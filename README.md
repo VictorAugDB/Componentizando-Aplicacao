@@ -1,5 +1,5 @@
 # Componentizando-Aplicacao
-## Desafio complementar módulo 1 - Ignite
+### Desafio complementar módulo 1 - Ignite
 
 ## Para rodar o projeto
 
